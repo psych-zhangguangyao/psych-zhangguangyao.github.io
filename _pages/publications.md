@@ -32,16 +32,6 @@ Lin, N., Xu, Y., Yang, H., **Zhang, G.**, Zhang, M., Wang, S., Hua, H., & Li, X.
 
 包寒吴霜, 王梓西, 程曦, 苏展, 杨盈, **张光耀**, 王博 & 蔡华俭. (2023). 基于词嵌入技术的心理学研究: 方法及应用. ***心理科学进展***, *31*(6), 887.
 
-Peer-reviewed Conference Proceedings
-======
-
-**Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Quick Talk at **The 7th Anuual Meeting of the Division of Psycholinguistics, Chinese Psychological Society** (Beijing, China)
-
-**Zhang, G.** & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The 17th Annual Meeting of Chinese Neuroscience Society** (Suzhou, China)
-
-**Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, May). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The Division of General Psychology and Experimental Psychology, Chinese Psychological Society** (Lanzhou, China)
-
-**Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at **The Wokshop on Concepts, Actions and Objects** (Rovereto, Italy)
 
 Sofewares
 ======
