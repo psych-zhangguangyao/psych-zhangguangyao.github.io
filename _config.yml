@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "ZhangGuangyao"
+locale                   : "en-CN"
+title                    : "Zhang Guangyao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
