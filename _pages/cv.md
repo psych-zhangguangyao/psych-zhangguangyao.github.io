@@ -82,3 +82,4 @@ Awards
 Professional Service and Membership
 ======
 * Journal Review: *Communications Psychology*, *Behavior Research Methods*
+* Membership: *Chinese Neuroscience Society*
