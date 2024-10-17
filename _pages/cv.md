@@ -52,7 +52,7 @@ Lin, N., Xu, Y., Yang, H., **Zhang, G.**, Zhang, M., Wang, S., Hua, H., & Li, X.
 
 Softwares
 ======
-**Zhang, G.**, Li, X., & Lin, N. (2020). ***YawMMF: Effective Mixed Model Functions***. Available at: https://github.com/usplos/YawMMF.
+**Zhang, G.**, Li, X., & Lin, N. (2020). ***YawMMF: Effective Mixed Model Functions***. Available at: https://github.com/psych-zhangguangyao/YawMMF.
 
 **Zhang, G.**, Li, X., & Lin, N. (2018). ***DPEEM: Data 'pipeline' Preprocessing and Extracting for Eye Movements***. Available at: https://github.com/psych-zhangguangyao/DPEEM. 
   
