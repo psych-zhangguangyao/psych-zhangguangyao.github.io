@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Quick Talk at **The 7th Anuual Meeting of the Division of Psycholinguistics, Chinese Psychological Society** (Beijing, China)
+**Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Flash Presentation at **The 7th Anuual Meeting of the Division of Psycholinguistics, Chinese Psychological Society** (Beijing, China)
 
 **Zhang, G.** & Bi, Y. (2024, September). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The 17th Annual Meeting of Chinese Neuroscience Society** (Suzhou, China)
 
