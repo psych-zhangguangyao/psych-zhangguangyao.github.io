@@ -76,7 +76,7 @@ Fundings
   
 Awards
 ======
-* 2024 , **Award for Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) 
+* 2024 , **Excellent Doctoral Dissertation Award of the Chinese Academy of Sciences** (中国科学院优秀博士学位论文) 
 * 2014 , **National Scholarship** (国家奖学金) 
 
 Professional Service and Membership
