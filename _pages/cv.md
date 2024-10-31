@@ -58,7 +58,7 @@ Softwares
   
 Conference
 ======
-**Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Poster presented at **The Anuual Meeting of the Branch of Cognitive Neuroscience, Chinese Neuroscience Society** (Beijing, China)
+**Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Poster presented at **The Anuual Meeting of the Branch of Cognitive Neuroscience, Chinese Neuroscience Society** (Shanghai, China)
 
 **Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Flash representation at **The 7th Anuual Meeting of the Division of Psycholinguistics, Chinese Psychological Society** (Beijing, China)
 
