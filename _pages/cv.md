@@ -46,10 +46,6 @@ Lin, N., Xu, Y., Yang, H., **Zhang, G.**, Zhang, M., Wang, S., Hua, H., & Li, X.
 
 包寒吴霜, 王梓西, 程曦, 苏展, 杨盈, **张光耀**, 王博 & 蔡华俭. (2023). 基于词嵌入技术的心理学研究: 方法及应用. ***心理科学进展***, *31*(6), 887.
 
-**Zhang, G.**, Li, X., & Lin, N. (2020). ***YawMMF: Effective Mixed Model Functions***. Available at: https://github.com/usplos/YawMMF.
-
-**Zhang, G.**, Li, X., & Lin, N. (2018). ***DPEEM: Data 'pipeline' Preprocessing and Extracting for Eye Movements***. Available at: https://github.com/psych-zhangguangyao/DPEEM. 
-
 Softwares
 ======
 **Zhang, G.**, Li, X., & Lin, N. (2020). ***YawMMF: Effective Mixed Model Functions***. Available at: https://github.com/psych-zhangguangyao/YawMMF.
