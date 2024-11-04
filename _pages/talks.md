@@ -17,5 +17,5 @@ redirect_from:
 
 **Zhang, G.**, Wang, X., Zhu, L., & Bi, Y. (2024, May). Brain Learns Word Concepts as Bayesian Inference. Poster presented at **The Anuual Meeting of the Division of General Psychology and Experimental Psychology, Chinese Psychological Society** (Lanzhou, China)
 
-**Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at **The Wokshop on Concepts, Actions and Objects** (Rovereto, Italy)
+**Zhang, G.** & Bi, Y. (2024, May). Brain Learns Word Meanings as Bayesian Inference. Poster presented at **The Workshop on Concepts, Actions and Objects** (Rovereto, Italy)
   
