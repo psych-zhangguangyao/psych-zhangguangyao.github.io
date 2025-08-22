@@ -28,6 +28,8 @@ Skills
 
 Publications
 ======
+**Zhang, G.**, Wang, X., Zhang, D., Xie, S., Zhu, L., Bi, Y. (Under review). Cortical knowledge structures guide word concept learning.
+
 **Zhang, G.**, Xu, Y., Wang, X., Li, J., Shi, W., Bi, Y., & Lin, N. (2023). A social-semantic working-memory account for two canonical language areas. ***Nature Human Behaviour***, *7*(11), 1980–1997. https://doi.org/10.1038/s41562-023-01704-8
 
 **Zhang, G.**, Hung, J., & Lin, N. (2023). Coexistence of the social semantic effect and non-semantic effect in the default mode network. ***Brain Structure and Function***, *228*(1), 321–339. https://doi.org/10.1007/s00429-022-02476-z
