@@ -13,7 +13,7 @@ You can find a full list of my articles and preprints on my [ResearchGate](https
 
 Peer-reviewed Journal Articles
 ======
-**Zhang, G.**, Wang, X., Zhang, D., Xie, S., Zhu, L., Bi, Y. (Under review). Cortical knowledge structures guide word concept learning.
+**Zhang, G.**, Wang, X., Zhang, D., Xie, S., Zhu, L., Bi, Y. (Under review). Cortical knowledge structures guide word concept learning, 28 August 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-6982157/v1]
 
 **Zhang, G.**, Xu, Y., Wang, X., Li, J., Shi, W., Bi, Y., & Lin, N. (2023). A social-semantic working-memory account for two canonical language areas. ***Nature Human Behaviour***, *7*(11), 1980–1997. https://doi.org/10.1038/s41562-023-01704-8
 
