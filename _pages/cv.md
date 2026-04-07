@@ -56,6 +56,10 @@ Softwares
   
 Conference
 ======
+**Zhang, G.** (2026, May 30th). Computational Neural Mechanisms and Cortical Organization Principles of Concept Learning. Invited talk at **Youth Forum of the 2026 Annual Conference of the Division of General and Experimental Psychology, Chinese Psychological Society** (Guilin, China)
+
+**Zhang, G.** Wang, X., Zhang, D., Xie, S., Zhu, L., & Bi, Y. (2025, June). How the Brain Forms New Word Concepts: A Neurocomputational Integration of Priors and Learning. Invited talk at NeuroChat (Suzhou, China)
+
 **Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Poster presented at **The Anuual Meeting of the Branch of Cognitive Neuroscience, Chinese Neuroscience Society** (Shanghai, China)
 
 **Zhang, G.** Wang, X., Zhu, L., & Bi, Y. (2024, November). Neurocomputational Mechanism of Human Word Concept Learning. Flash representation at **The 7th Anuual Meeting of the Division of Psycholinguistics, Chinese Psychological Society** (Beijing, China)
