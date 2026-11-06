@@ -25,6 +25,8 @@ Peer-reviewed Journal Articles
 
 **Zhang, G.**, Yuan, B., Hua, H., Lou, Y., Lin, N., & Li, X. (2021). Individual differences in first-pass fixation duration in reading are related to resting-state functional connectivity. ***Brain and Language***, *213*, 104893. https://doi.org/10.1016/j.bandl.2020.104893
 
+Zhao, W., Shi, W., Liang, B., Ma, L., **Zhang, G.**, & Nan, L. (2026). TMS Reveals Hybrid Neural Functions Underlying the Sentence Superiority Effect. ***Neurobiology of Language***, 7, NOL-a. https://doi.org/10.1162/NOL.a.293
+
 Borjigin, B., **Zhang, G.**, Hou, Y., & Li, X. (2024). Perceptual Span in Mongolian Text Reading. ***Current Psychology***. https://doi.org/10.1007/s12144-024-06074-6 
 
 Wang, S., Zhang, Y., Shi, W., **Zhang, G.**, Zhang, J., Lin, N., & Zong, C. (2023). A large dataset of semantic ratings and its computational extension. ***Scientific Data***, *10*(1), 106. https://doi.org/10.1038/s41597-023-01995-6
